@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#1e1e1e",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#ffffff",
+            "text-head": "#000000",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#CD0000",
+            "yellow": "#FFFFFF",
+            "yellow-button": "#CD0000",
+            "button-text": "#000000",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#000000",
+            "bonus-border": "#ffffff",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#CD0000",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3970"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3972",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Playground Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3973",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Playground"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Playground",
+                    "title": "Playground — Best Online Casino Canada | CAD Bonus",
+                    "description": "Play at Playground Casino Canada — 1,000+ slots, live dealer tables & poker rooms licensed by KGC. Fast CAD deposits & rewards. Join today!\n",
+                    "canonical": "casinoplayground-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3974",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinoplayground-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3975"
+                },
+                "hero": {
+                    "title": "Canada's Premier Licensed Online Casino & Poker Hub",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3976",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3977",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Canada? We operate under a Kahnawake Gaming Commission license with RNG-certified games, instant CAD deposits, and 24\/7 support. Here's why Canadian players choose us:\n",
+                    "items": [
+                        "Licensed by Kahnawake Gaming Commission (KGC) — certified fair play",
+                        "1,000+ slot machines with progressive jackpots & bonus features",
+                        "70+ poker tables: Texas Hold'em, PLO, WPT events & MILLIONS series",
+                        "Instant CAD deposits via Visa, Mastercard, Interac & e-wallets",
+                        "Playground Rewards: earn points on every spin, table & poker hand",
+                        "24\/7 poker action & daily gaming from 9 AM with English support"
+                    ],
+                    "advantagesAfterText": "Join thousands of Canadian players who trust Playground's KGC-licensed platform for secure, fair, and rewarding gaming. Our English-speaking team is ready to assist you around the clock.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Playground App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3978",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Playground App",
+                    "mobileGooglePlayImageTitle": "Playground App",
+                    "mobileIosImageTitle": "Playground App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Playground Casino Canada",
+                        "description1": "We are Canada's most respected gaming destination, operating from the Mohawk Territory of Kahnawake, Quebec under a full Kahnawake Gaming Commission license. Our platform offers 1,000+ games for Canadian players.\n",
+                        "items": [
+                            "Launched as Canada's premier poker destination",
+                            "Expanded to 1,000+ KGC-certified slot machines",
+                            "Introduced Playground Rewards loyalty program",
+                            "Achieved World Poker Tour official venue status"
+                        ],
+                        "description2": "We operate under Kahnawake Gaming Commission license with certified RNG fairness. Our platform uses SSL 256-bit encryption protecting all CAD transactions. Every game is independently tested for fair, random outcomes.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3979",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep growing our game library and poker tournament schedule for Canadian players. Our responsible gaming tools, deposit limits, and self-exclusion options ensure safe play. Discover why Canada trusts Playground!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for Canadian Players",
+                        "description": "<h2>Complete Game Portfolio for Canadian Players<\/h2>\n\n<p>At Playground, we offer one of Canada's most diverse gaming experiences, combining 1,000+ KGC-certified slot machines, 40 electronic table games, and a world-renowned poker room under one licensed platform. Every game on our platform is tested for random outcomes by independent auditors, ensuring Canadian players enjoy a fair and secure environment. Whether you prefer quick slot sessions, strategic table play, or competitive poker action, we have something perfectly suited to your style. Our game library is continuously updated with new titles from leading software providers to keep the experience fresh and exciting for players across Canada.<\/p>\n\n<h3>Slots: Canada's Biggest Certified Collection<\/h3>\n<p>Our slot machines represent the heart of the Playground gaming floor. With over 1,000 certified slot titles, we offer an unmatched variety of themes, mechanics, and prize pools for Canadian players. From classic 3-reel fruit machines to modern video slots with cascading reels, expanding wilds, and multi-level bonus rounds, there is always something new to explore. Many of our slots feature progressive jackpots that accumulate across multiple machines, giving players the chance to win life-changing sums on a single spin. Every slot title on our platform uses a certified Random Number Generator (RNG), independently verified to ensure completely fair outcomes on every bet.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Slots:<\/strong> Hundreds of modern video slots featuring 5-reel, 6-reel, and cluster-pay mechanics with bonus buy options, free spin rounds, and win multipliers reaching up to 10,000x your stake. These games come from certified international providers, ensuring consistent quality and certified payout rates for Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Our progressive network connects multiple machines, allowing jackpots to grow rapidly. Some titles regularly exceed CAD 100,000 before triggering, giving serious slot players a compelling reason to chase the big win on our licensed Canadian platform.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic & Retro Slots:<\/strong> For players who prefer simplicity, our classic slot collection features traditional 3-reel formats with straightforward gameplay, minimal volatility, and consistent payback percentages. These are perfect for casual sessions or for testing betting strategies before moving to more complex titles.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Themed Slots:<\/strong> Our library spans dozens of themes — mythology, adventure, sports, movies, and Canadian culture — ensuring every type of player finds a visually engaging and entertaining experience tailored to their preferences.<\/li>\n<\/ul>\n\n<h3>Electronic Table Games: Smart Play for Canadian Gamblers<\/h3>\n<p>Wondering which table games are available for Canadian players? We offer approximately 40 electronic table game terminals covering all the classics — roulette, blackjack, and baccarat — each designed for fast, self-directed gameplay with certified RNG dealing logic. Electronic tables are ideal for players who prefer a quicker pace, lower betting minimums, or simply want to practice their strategy without pressure. Each terminal runs on certified software audited by independent testing laboratories, guaranteeing random and fair card distributions and wheel spins on every round. Stakes are designed to accommodate both casual CAD bettors and high-volume players looking for consistent action throughout the day.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Electronic Roulette:<\/strong> European and American roulette variants available on touch-screen terminals, with adjustable bet sizing and comprehensive betting boards including straight-up, split, corner, and outside bets. RTP on European Roulette reaches 97.3%, making it one of the highest-value table games available to Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Electronic Blackjack:<\/strong> Multiple blackjack variants with classic rules, including double-down, split, and insurance options. Our blackjack terminals support a theoretical RTP of up to 99.5% when optimal strategy is applied, providing excellent long-term value for skilled Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Electronic Baccarat:<\/strong> Available in standard and speed formats, our baccarat terminals provide a clean, fast-paced experience with Player, Banker, and Tie bet options. With an RTP of up to 98.94% on the Banker bet, baccarat remains one of the most player-friendly games in our Canadian casino portfolio.<\/li>\n<\/ul>\n\n<h3>Betting Limits Across Our Game Categories<\/h3>\n<p>Our flexible stake ranges accommodate every type of Canadian player, from casual gamblers making modest CAD bets to high-volume players pursuing maximum gaming value. The table below outlines the general betting parameters across our main game categories.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #c91811;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$100<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$2,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$3,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$2,500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$1 BB<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">No Limit<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Poker Room: Canada's Premier Poker Destination<\/h3>\n<p>Our poker room is the crown jewel of the Playground experience and one of the most respected poker venues in all of North America. We operate over 70 poker tables running 24 hours a day, 7 days a week, hosting everything from micro-stakes cash games to internationally recognized tournament series. Canadian players at every skill level will find a game that suits their bankroll and ambition. The combination of world-class tournament events, deep cash game action, and a welcoming atmosphere makes our poker room the top destination for serious players across Canada and beyond.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Texas Hold'em Cash Games:<\/strong> The most popular poker format in Canada, available at our tables around the clock with stakes ranging from micro-limit entry games all the way to high-stakes action. Players can choose from full ring, 6-max, and heads-up formats depending on availability and preference.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Pot Limit Omaha (PLO):<\/strong> A fast-growing poker variant offered at multiple stake levels on our dedicated PLO tables. PLO is beloved by action-oriented Canadian players for its high-variance nature and complex strategic depth, making every hand an engaging battle.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>World Poker Tour (WPT) Events:<\/strong> We are an official WPT stop, hosting major international tournaments that attract professional and recreational players from across Canada and the world. WPT events at Playground feature multi-day structures, massive guaranteed prize pools, and extensive media coverage.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>MILLIONS North America Series:<\/strong> Our venue hosts one of the most prestigious poker series in the Canadian calendar, featuring buy-ins and prize pools that rival major European and American events. Past MILLIONS events have seen total prize pools exceeding CAD 5,000,000.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Daily & Weekly Poker Tournaments:<\/strong> Beyond major series, we run daily tournaments with affordable buy-ins and generous prize pool structures. On Tuesdays, for example, our poker promotions distribute CAD 400 every 30 minutes, with total weekly prize pools exceeding CAD 14,000 — ideal for regular Canadian grinders.<\/li>\n<\/ul>\n\n<h3>Why Canadian Players Trust Our Gaming Platform<\/h3>\n<p>We are fully licensed by the Kahnawake Gaming Commission, one of North America's longest-standing gambling regulators, operating from the Mohawk Territory of Kahnawake, Quebec. Every game category on our platform — slots, table games, and poker — is subject to regular audits and certification requirements. Our commitment to Canadian players extends beyond game variety: we enforce responsible gaming policies including deposit limits, session time controls, and self-exclusion options accessible to all registered members. Additionally, our platform supports full CAD transactions without currency conversion fees, so Canadian players always know exactly what they are spending and winning. Whether you're a slots enthusiast, a table game strategist, or a poker professional, our KGC-licensed gaming hub is built with your experience at the centre of everything we do.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Bonuses & Rewards for Canadians",
+                        "description": "<h2>Banking, Bonuses & Rewards for Canadian Players<\/h2>\n\n<p>At Playground, we understand that Canadian players expect seamless, fast, and secure financial transactions in CAD. Our banking infrastructure is built specifically for the Canadian market, supporting all major local payment methods without conversion fees or delays. Beyond straightforward deposits and withdrawals, we offer a rewarding bonus ecosystem and a multi-tier loyalty program that ensures every dollar you wager on our KGC-licensed platform translates into genuine, tangible benefits. Whether you're a new member claiming your first bonus or a loyal player climbing our rewards tiers, our financial and promotional system is designed to maximize your value at every step of your journey with us.<\/p>\n\n<h3>Depositing Funds: Fast and Secure CAD Banking<\/h3>\n<p>How do I deposit money at Playground Casino Canada? Adding funds to your account is quick and straightforward. We support all major Canadian payment methods, enabling instant deposits in CAD without unnecessary conversion fees or processing delays. Visa and Mastercard deposits clear immediately, while Interac e-Transfer is a favourite among Canadian players for its wide bank compatibility and zero-fee structure. All transactions are secured by SSL 256-bit encryption, and our payment processing is monitored 24\/7 to prevent fraudulent activity. Minimum deposits start at C$10, making our platform accessible for players of all budget levels across Canada.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Interac e-Transfer:<\/strong> Canada's most popular peer-to-peer banking method, supported for both deposits and withdrawals. Transactions process in under 30 minutes in most cases, with no fees charged by our platform. Interac is available at virtually every major Canadian bank including RBC, TD, Scotiabank, CIBC, and BMO.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> Instant deposit processing using your Canadian Visa or Mastercard credit or debit card. Our PCI-DSS compliant payment gateway ensures your card data is never stored, and all transactions appear discreetly on your statement. Widely accepted from all major Canadian issuers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>E-Wallets (Skrill & Neteller):<\/strong> For players who prefer an additional layer of privacy, both Skrill and Neteller are accepted for instant deposits and fast withdrawals processed within 2–4 hours. E-wallet accounts also qualify for exclusive promotional bonuses and accelerated Playground Rewards point earning.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bank Transfer:<\/strong> Direct bank wire transfers are supported for larger transactions, with processing times of 1–3 business days. This method is preferred by high-volume Canadian players who require higher deposit and withdrawal limits without restrictions.<\/li>\n<\/ul>\n\n<h3>Payment Methods Overview for Canadian Players<\/h3>\n<p>The table below provides a clear overview of our supported deposit and withdrawal options, including processing speeds and typical transaction limits available to Canadian members.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #c91811;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Interac<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">2–4 hrs<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #121212;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">2–4 hrs<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Wire<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–3 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$50<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Welcome Bonuses and Ongoing Promotions for Canadians<\/h3>\n<p>We reward our Canadian players generously from the moment they join. New members can claim a C$10 free play credit simply by registering with their email address — no deposit required to get started. Our weekly promotions are structured to keep long-term players engaged and well-rewarded. Every Tuesday evening, our Weekly Jackpot Party promotion distributes prizes including up to C$1,500 in cash and C$1,000 in free play credits among players who hit wins of C$500 or more on our slot machines or table games. Poker players benefit from dedicated Tuesday promotions distributing C$400 every 30 minutes, with a total weekly poker prize pool exceeding C$14,000. These consistent, recurring promotions ensure that Canadian players always have an active reason to engage with our platform.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Email Registration Bonus:<\/strong> New Canadian players receive C$10 in free play simply by registering their email address in the Player Services section of our platform. This is an instant, no-deposit reward that lets you explore our slot and table game selection without risking your own funds.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Jackpot Party:<\/strong> Every Tuesday, players who win C$500 or more on eligible games receive invitations to our special jackpot party event. Prizes include C$1,500 in cash and C$1,000 in free play, making Tuesdays the most exciting gaming night of the week for Canadian players on our platform.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Poker Weekly Promotions:<\/strong> Dedicated poker bonuses distribute C$400 every 30 minutes on Tuesday nights at eligible cash game tables. The total weekly poker prize pool exceeds C$14,000, offering consistent additional value for Canadian poker enthusiasts who play regularly on our platform.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Seasonal & Exclusive Canadian Promotions:<\/strong> We run special promotions tied to Canadian events including Hockey Night, Canada Day, and major WPT tournament weeks. Exclusive prize packages, free tournament entries, and bonus CAD credits are available during these events for registered members.<\/li>\n<\/ul>\n\n<h3>Playground Rewards: Canada's Best Casino Loyalty Program<\/h3>\n<p>Our Playground Rewards program is designed to reward Canadian players for every gaming activity they complete on our platform. Points accumulate across all eligible game types — slots, electronic table games, and qualifying poker hands — and can be redeemed for free play credits and exclusive member privileges. The program operates across multiple tiers, with higher-level members unlocking accelerated point earning rates, access to premium benefits, and dedicated host support. We believe loyalty should be rewarded meaningfully, which is why our Rewards program is one of the most transparent and generous in the Canadian online gaming market.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Standard Tier:<\/strong> Available to all registered Canadian players from day one. Earn Rewards Points on every eligible EGD spin, table bet, and poker hand. Points can be redeemed for free play credits directly on our platform with no minimum threshold restrictions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mid Tier — 15% Accelerated Earning:<\/strong> Players who reach the mid-tier qualification level earn Rewards Points at a 15% accelerated rate on all Electronic Gaming Devices (EGDs). Combined with exclusive promotional invitations, this tier significantly boosts the return value for regular Canadian gamblers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Premium Tier — 25% Accelerated Earning + Host Access:<\/strong> Our highest publicly listed tier provides a 25% point acceleration rate on EGDs, access to free premium drinks during play sessions, and a dedicated personal host. This level is designed for high-frequency Canadian players who demand the best possible service and value from their gaming experience.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exclusive Tier Promotions:<\/strong> All Rewards members receive access to exclusive promotions unavailable to non-members. These include early access to tournament registrations, special invitation-only jackpot events, and priority customer support in English, ensuring a superior gaming experience at every level of play.<\/li>\n<\/ul>\n\n<h3>Responsible Gaming: Our Commitment to Canadian Players<\/h3>\n<p>We take responsible gaming seriously and are committed to providing every Canadian player with the tools needed to maintain healthy, controlled gambling habits. As a KGC-licensed operator, we are required to implement and actively promote responsible gaming features across our entire platform. These tools are always accessible and can be activated at any time through your account dashboard without delay. Our responsible gaming commitment extends to staff training, ensuring that every member of our support team in Canada is equipped to assist players who may need guidance or intervention. We partner with national responsible gaming organizations to provide external support resources for any Canadian player who may require them.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit Limits:<\/strong> Set daily, weekly, or monthly CAD deposit limits to control your spending. Once set, limits take effect immediately and cannot be increased without a mandatory cooling-off period, ensuring impulsive decisions cannot override your preset boundaries.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Session Time Controls:<\/strong> Configure maximum session durations and receive automatic notifications when approaching your preset time limits. This feature is particularly valuable for Canadian players who engage in extended poker sessions or slot play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion:<\/strong> Any Canadian player can request a voluntary self-exclusion for periods ranging from 30 days to permanent. During an exclusion period, access to all gaming activities is fully blocked and cannot be reversed until the exclusion period naturally expires.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Checks:<\/strong> Periodic pop-up reminders display your session duration and net win\/loss position, keeping you informed and in control throughout every gaming session on our Canadian platform.<\/li>\n<\/ul>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is Playground Casino licensed and safe for Canadians?",
+                            "answer": "Yes, we are fully licensed by the Kahnawake Gaming Commission (KGC), one of North America's most established gambling regulators based in Quebec, Canada. All games use certified RNG software, and our platform employs SSL 256-bit encryption to protect every CAD transaction and personal data record.\n"
+                        },
+                        {
+                            "title": "What games are available at Playground online?",
+                            "answer": "We offer 1,000+ certified slot machines, around 40 electronic table games (roulette, blackjack, baccarat), and 70+ poker tables running 24\/7. Our poker room hosts WPT events and the MILLIONS North America series, making us Canada's top destination for all gaming formats.\n"
+                        },
+                        {
+                            "title": "How do I deposit money at Playground Casino Canada?",
+                            "answer": "Deposit instantly using Interac e-Transfer, Visa, or Mastercard in CAD with no conversion fees. E-wallets like Skrill and Neteller are also accepted with 2–4 hour processing. Minimum deposit is C$10. All transactions are SSL 256-bit encrypted for complete security.\n"
+                        },
+                        {
+                            "title": "How do I claim the welcome bonus at Playground?",
+                            "answer": "Register your account and enter your email address in the Player Services section to receive C$10 in free play instantly — no deposit needed. Additional weekly bonuses, including the Tuesday Jackpot Party with up to C$1,500 in cash prizes, become available once you start playing eligible games.\n"
+                        },
+                        {
+                            "title": "What is the Playground Rewards loyalty program?",
+                            "answer": "Playground Rewards lets you earn points on every eligible slot spin, table bet, and poker hand. Points redeem for free play credits. Higher tiers unlock 15–25% accelerated point earning on EGDs, free premium drinks during play, and personal host access for premium Canadian members.\n"
+                        },
+                        {
+                            "title": "Can I play poker tournaments at Playground online?",
+                            "answer": "Yes, our poker room runs 24\/7 with daily and weekly tournaments open to all Canadian players. We host World Poker Tour (WPT) events and the MILLIONS North America series with prize pools exceeding CAD 5,000,000. Tuesday poker promotions distribute C$400 every 30 minutes in additional cash prizes.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at Playground Casino?",
+                            "answer": "Withdrawals via Interac e-Transfer typically process within 30 minutes. E-wallet withdrawals via Skrill or Neteller complete within 2–4 hours. Bank wire transfers take 1–3 business days. All CAD withdrawals are processed without additional fees from our platform.\n"
+                        },
+                        {
+                            "title": "Does Playground Casino offer responsible gaming tools?",
+                            "answer": "Absolutely. As a KGC-licensed Canadian operator, we provide deposit limits, session time controls, reality checks, and voluntary self-exclusion ranging from 30 days to permanent. All tools are available instantly via your account dashboard, with our English-speaking support team available 24\/7 to assist.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
